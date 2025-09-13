@@ -57,6 +57,9 @@ main {
  ul li {
 margin-bottom: 10px;
 }
-
+.body__table{
+  border: 1px solid black;
+}
 /* END */
+
 
